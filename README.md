@@ -1,39 +1,23 @@
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square)](https://heinthuyawin-portfolio.vercel.app)
+<h1 align="center">Hi, I'm Henry 👋</h1>
+<h3 align="center">Full-Stack Developer • Graduand at ICT Rangsit University</h3>
 
-## Hi, I'm Henry 👋
-
-Final-year ICT student and aspiring **Full-Stack Developer** based in Thailand.
-
-I enjoy building real-world applications, exploring AI-powered systems,
-and learning how to design scalable, maintainable software.
-
----
-
-### 🌱 Currently Learning
-
-* Full-Stack Web Development (Next.js, React, TypeScript)
-* Backend Systems (Golang, PostgreSQL)
-* AI-powered applications and automation
-
----
-
-### 🚀 What I Work On
-
-* AI customer support chatbots
-* Automation systems and document processing
-* Data-driven and forecasting projects
-
----
-
-### 📫 How to Reach Me
-
-* 📧 Email: [your-email@example.com](mailto:winheinthuya.dev@gmail.com)
-* 💼 LinkedIn: [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/heinthuyawin)
-
----
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+<p align="center">
+  <a href="https://https://heinthuyawin-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_my_site-blue?style=for-the-badge" alt="Portfolio Badge"/>
   </a>
-</div>
+</p>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+- 🌱 I'm currently learning **AI/ML**
+
+- 📫 How to reach me **winheinthuya.dev@gmail.com**
+
+- ⚡ Fun fact **I love doing workouts and playing sports**
+
+</td>
+</tr>
+</table>
+<br clear="both">
