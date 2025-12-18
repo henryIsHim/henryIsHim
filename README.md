@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<p align="center"><strong>Tech Stack</strong></p>
+<h1 align="center">Tech Stack</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
